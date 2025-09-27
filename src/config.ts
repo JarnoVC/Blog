@@ -54,6 +54,10 @@ export const profileConfig: ProfileConfig = {
       name: 'GitHub',
       icon: 'fa6-brands:github',
       url: 'https://github.com/JarnoVC',
+    },{
+      name: 'Linkedin',
+      icon: 'fa6-brands:linkedin',
+      url: 'https://www.linkedin.com/in/jarno-van-clemen-a596b0232/',
     },
   ],
 }
