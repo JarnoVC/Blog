@@ -48,7 +48,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/face.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Jarno Van Clemen',
-  bio: 'Student Experience Design aan Thomas More Mechelen',
+  bio: 'Student Experience Design aan Thomas More Mechelen. Momenteel actief als Stagiair bij PDSS',
   links: [
     {
       name: 'GitHub',
@@ -58,7 +58,11 @@ export const profileConfig: ProfileConfig = {
       name: 'Linkedin',
       icon: 'fa6-brands:linkedin',
       url: 'https://www.linkedin.com/in/jarno-van-clemen-a596b0232/',
-    },
+    },{
+      name: 'PDSS',
+      icon: 'fa6-solid:globe',
+      url: 'https://pdss.eu/',
+    }
   ],
 }
 

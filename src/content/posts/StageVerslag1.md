@@ -15,21 +15,38 @@ De dag erna mocht ik met een andere collega, Wannes, mee naar twee Trixxo-strijk
 
 Na deze eerste praktijkervaringen lag de focus meer op het eigen werk binnen het kantoor. Omdat PDSS vooral met WordPress en Divi werkt, kreeg ik de opdracht om via een tutorial kennis te maken met dit platform. Dat nam ongeever twee dagen in beslag, waarna ik zelf een eerste oefenwebsite kon opbouwen.
 
-Foto oefenwebsite hier
+![Oefenwebsite landing](./Images/Oefenwebsite1.png)
+
+![Oefenwebsite Team](./Images/Oefenwebsite2.png)
 
 Vervolgens kreeg ik een kopie van de PDSS-website waarmee ik kon experimenteren en een redesign kon uitwerken. Ik heb me dan vooral eerst gefocust om het namaken van hun iconen en stijlelementen, zodat ik hier beter mee kon experiementeren op het vlak van vorm en kleurgeving. Verder heb ik me dan ook bezig gehouden met het stijlen van hun buttons, hero sectie, en diensten pagina.
 
-Foto pdss website hier
+![Divi theme builder](./Images/Theme-Builder.png)
+
+![Hero section](./Images/Her-section_PDSS.png)
+
+![Diensten PDSS](./Images/Diensten_PDSS.png)
 
 Dit project werd echter op pauze gezet toen mijn mede-stagiaire me vroeg om te helpen met een ander, uitdagender project: een SMS-tool waarmee PDSS en klanten eenvoudig automatische berichten kunnen versturen op basis van voorgemaakte templates.
 
 Dit platform werd ontwikkeld in Laravel, React en Tailwind – technologieën waar ik nog niet veel mee had gewerkt. Het was even puzzelen om alles lokaal aan de praat te krijgen, maar na wat troubleshooting kon ik me beginnen toeleggen op het ontwerp in Figma. Daarna bouwde ik dit uit tot een front-end die aansloot bij de behoeften van het project. Simpel en efficiënt. Ik voegde onder meer een language translator toe zodat gebruikers tussen Nederlands, Frans en Engels kunnen kiezen (wat toch wel belangrijk was voor PDSS hun franstalige klanten), werkte een dark en light mode uit, en verzorgde de styling van knoppen, invoervelden en teksten. Samen met Rob, die zich meer focuste op de back-end, hebben we het geheel uitgebreid getest en bugs opgelost. Ik vermoed hoewel dat er toch nog wat werk bij te pas zal komen, aangezien we nog niet alle functionaliteiten hebben kunnen testen of implementeren. Een ongoing project dus.
 
-Foto's SMS Tool toevoegen
+![Code SMS-Tool](./Images/Code%20SMs-tool.png)
+
+![Login SMS tool](./Images/Login_smstool.png)
+
+![Login SMS tool darkmode](./Images/Login_smstool-Darkmode.png)
+
+![Dashboard SMS tool](./Images/Dashboard-darkmode.png)
+
+![Users SMS tool](./Images/Users-lightmode.png)
+
+![Github PDSS](./Images/Github-PDSS.png)
 
 Naast deze interne opdrachten kreeg ik ook de vrijheid om zelf potentiële klanten te zoeken. Dit was natuurlijk een grote stap, en heb hier dus meteen mijn volle focus aan gegeven. Ik ben begonnen met contact op te nemen met meerdere kleine bedrijven in mijn buurt. Mijn eerste concrete kans lijkt zich al aan te dienen bij Monsieur Kaffee, een koffie bar in Bonheiden. Ik heb hun website geanalyseerd en enkele verbeterpunten genoteerd, zoals het redesignen van de menupagina en het optimaliseren van de online shop en checkout. Dit weekend heb ik een gesprek gepland om te bekijken hoe ik hen kan ondersteunen, en vooral wat de klanten van mij zal verwachten. Een volledige rebranding of gewoon kleine aanpassingen aan de bestaande website? Als dit doorgaat, zou dit mijn eerste volwaardige klantproject worden, wat me erg interessant lijkt om alle opgedane kennis in de praktijk te brengen.
 
-Link naar website Monsieur Kaffee?
+
+![Monsieur Kaffee](./Images/monsieurKaffee.png)
 
 Wat deadlines betreft, zijn er voorlopig nog geen harde afspraken gemaakt. De bedoeling is vooral dat we veel bijleren en kleine taken oppakken om ervaring op te doen. De komende weken verwacht ik vooral verder te werken aan het redesign van de PDSS-website, en hopelijk ook een start te maken met mijn eerste klantproject.
 In korte tijd heb ik al veel nieuwe dingen geleerd. Zo heb ik kennisgemaakt met WordPress en Divi, maar ook voor het eerst echt gewerkt met React, Laravel en Tailwind. Daarnaast heb ik ervaring opgedaan met XAMPP om de SMS Tool lokaal te gebruiken.
