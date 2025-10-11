@@ -4,7 +4,7 @@ published: 2025-09-27
 description: 'Verslag over mijn eerste twee weken stage bij PDSS'
 image: ''
 tags: []
-category: ''
+category: 'Verslag'
 draft: false 
 lang: 'nl'
 ---
