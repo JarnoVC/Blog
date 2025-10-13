@@ -26,7 +26,7 @@ Om de structuur en visuele stijl beter te kunnen analyseren, heb ik de volledige
 
 Uiteindelijk heb ik een 6-tal designs kunnen maken: één versie die dicht bij de huidige website blijft, een modernere interpretatie met subtiele aanpassingen, en een speelsere variant met koffietinten, ronde afbeeldingen en zachte achtergrondvormen. Verder heb ik ook nog meer exotische veranderingen gemaakt, spelende met flashy kleuren, en uiteindelijk een zeer stijlvolle Roaring 20’s/Art-Deco stijl. Elke variant werd natuurlijk gepaard met een mobiele versie zodat het ontwerp al volledig responsive kon uitgepland worden. Om mijn designs in details te bekijken kan je mijn figma file bezoeken: https://www.figma.com/design/FUaJl4y4Q2OCwEi9BEOsXr/Monsieur-Kaffee?node-id=0-1&t=hMrtpXXpPAuO4oij-1
 
-![Designs in figma](./Images/figma1.png)
+![Designs in figma](./Images/Figma1.png)
 ![Designs in figma](./Images/figma2.png)
 
 Tijdens een follow up gesprek koos Jan uiteindelijk voor de art-deco stijl, wat goed past bij het karakter van de koffiebar en het lettertype dat momenteel al in gebruik was. We bespraken daarbij ook enkele praktische zaken zoals het behoud van de webshop via WooCommerce en de mogelijke overgang van zijn WordPress-omgeving naar het systeem van PDSS, zodat verdere aanpassingen in Divi eenvoudiger worden.
