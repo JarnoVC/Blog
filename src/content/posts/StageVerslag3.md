@@ -1,0 +1,36 @@
+---
+title: StageVerslag3
+published: 2025-10-25
+description: 'Verslag over mijn stage bij PDSS. Actieve stage 13/10-26/10'
+image: ''
+tags: []
+category: 'Verslag'
+draft: false 
+lang: 'nl'
+---
+
+De voorbije twee weken heb ik me voornamelijk gericht op het verder uitwerken van het websiteproject voor Monsieur Kaffee, het usertesten van mijn mede-staigaire’s Gift Portal project, en het bijwonen een sales- en adviesgesprek bij een potentiële klant samen met één van de bazen (Thomas Materne).
+
+Wat betreft Monsieur Kaffee heb ik me kunnen focussen op de uitwerking, gebruikmakende van mijn designs in Figma. Ik startte met de homepage, waarbij ik de hero-sectie, knoppen, achtergrond-elementen, dividers en teksten volledig heb afgerond. Ook de menupagina kreeg mijn aandacht: teksten, categorieheaders, curve titles, dividers en de footer zijn vernieuwd. Daarbij heb ik geëxperimenteerd met tooltips voor menu-items, specifiek voor whisky en thee, zodat gebruikers een extra informatiepopup te zien krijgen.
+
+Daarnaast heb ik de WooCommerce-webshop ook in orde gebracht. Hierbij heb ik alle producten van de oude website kunnen importeren om tijd te besparen, de storefront en detailpagina’s ontworpen en gestyled, en de checkout volledig aangepast met custom buttons, breadcrumbs en een nieuw cart-icoon dat het aantal items in het winkelwagentje weergeeft (Divi had hier zelf ook een kant-en-klare module voor, maar ik vond persoonlijk dat die niet zo goed was en heb daarom zelf een verbeterde versie gemaakt via de code snippets plugin). Ook de e-mail updates voor klanten en winkel-eigenaar in het bestelproces zijn getest en geoptimaliseerd, inclusief de integratie met de Mollie-betalingsgateway. Verder heb ik gezorgd voor SEO-optimalisaties op de homepage en productpagina’s via Yoast SEO. Parallel werkte ik aan de responsive versies van alle pagina’s (desktop en mobiel), inclusief homepage, menu, storefront, productpagina en afrekenpagina, zodat de gebruikerservaring op elk apparaat aangenaam is. Hier is echter nog wel een een klein beetje extra werk aan nodig voor grotere schermen op dekstop (denk ultrawide).
+
+Tijdens dit proces heb ik met enkele technische obstakels moeten worstelen. Zo kon ik aanvankelijk geen custom fonts uploaden, wat uiteindelijk opgelost werd met een plugin die TTF-bestanden accepteert in wordpress. Dit was uiteindelijk belangrijk om de bestaande branding van Monsieur Kaffee te kunnen behouden. Ook de styling van menu-elementen bleek uitdagend omdat alles in één section was geïntegreerd, waardoor het herschikken van elementen al wat lastiger ging en wat puzzelwerk met css nodig had. Plugins en code snippets, zoals een custom CSS voor tooltips, hielpen me om verdere gewenste functionaliteit te realiseren.
+
+Naast Monsieur Kaffee heb ik Rob ondersteund met usertesting voor het Gift Portal. Ik heb alle features getest en een kort verslag opgesteld, inclusief feedback voor verbeteringen. Verder heb ik hem ook conceptueel bijgestaan waar nodig/gewenst om ideeën te bespreken en uit te wisselen over hoe de verdere aanpak van zijn project best zou gaan.
+
+Een andere interessante gebeurtenis van de laatste 2 weken was een sales- en adviesgesprek bij een potentiële klant, Froyer & Zeiler, samen met Thomas. Het gesprek ging over hun huidige IT-infrastructuur en mogelijkheden tot samenwerking met PDSS. Belangrijke onderwerpen waren cybersecurity, asset management, firewallconfiguraties, back-ups, user-awareness training, en het beveiligen van mail en Dropbox. Ook werd besproken hoe PDSS ondersteuning kan bieden bij nieuwe laptops, printers en de integratie van dockingstations. Hoewel de besproken onderwerpen niet echt gelinkt zijn aan mijn studies, vond ik dit nog steeds een bijzonder leerrijk ervaring. Ik kreeg inzicht in het adviesproces voor kleine KMO’s en hoe nieuwe klanten begeleid kunnen worden in het vinden van de nodige oplossingen voor hun problemen.
+
+Verder heb ik onderzoek gedaan naar WooCommerce en Mollie-integratie, om de webshop van Monsieur Kaffee volledig functioneel en gebruiksvriendelijk te maken. Ik heb parallax-effecten op de homepage geoptimaliseerd, pagination styling aangepast via een plugin, en custom productpagina’s ontworpen in Divi. Dit alles vroeg zowel technische skills (WordPress, WooCommerce, CSS, Divi) als ontwerpvaardigheden (UI/UX, responsive design, branding).
+
+Tenslotte ben ik begonnen aan het voorbereidend werk voor een nieuwe potentiele klant. TaalmetAn, een lerares die in bijberoep stemactrice is en bijles frans/engels/nederlands/spaans geeft. Alhoewel zij al een portfolio website heeft, kon deze zeker een makeover gebruiken en een geheel nieuwe branidng krijgen. Dus daar ben ik ook al aan begonnen. Het experimenteren met logo’s en kleurenpalleten aansluitend aan An’s persoonlijkheid en interesses. 
+
+Wat deadlines betreft, waren er geen strikte tijdslimieten opgelegd door mijn klant (Monsieur Kaffee); mijn planning verliep in overleg met het team van PDSS en de klant. Tot nu toe is het merendeel van de homepage, menupagina en webshop-structuur afgerond, en zijn de responsive versies beschikbaar. Na een toekomstig gesprek met Jan zal ik waarschijnlijk verder werken aan de laatste design aanpassingen, het menu en de tooltips optimaliseren, en tenslotte een paar laatste finishing touches.
+
+Nieuw geleerd deze weken: naast de eerder verworven kennis in WordPress, Divi, Laravel en Tailwind, heb ik diepgaand ervaring opgedaan in het werken met WooCommerce, Mollie-betalingsprocessen, responsive werken met divi, custom CSS implementaties, en usertesting. De extra ervaring in het houden van een salesgesprek was natuurlijk ook mooi meegenomen.
+
+De omgeving bij PDSS blijft nog steeds hetzelfde, al zijn mijn collega’s wel wat drukker aan het werk na een influx van nieuwe klanten. Desondanks blijven de collega’s vriendelijk en zijn ze bereid om te helpen wanneer nodig/beschikbaar. Mijn samenwerking met Rob verloopt ook nog steeds enorm vlot; we kunnen steeds bij elkaar terecht voor feedback en het uitwisselen van ideeën. Thomas en Lukas bieden nog steeds professionele begeleiding, waarbij Thomas vooral begeleiding geeft in klantencommunicatie, wat enorm helpt bij mijn gesprekken met Jan Vits, terwijl Lukas meer advies kan geven bij interne ontwikkelingstaken.
+
+Persoonlijk ben ik wel trots op het zelfstandig leren en onderzoeken van nieuwe tools en technologieën, en mijn focus om tijdig mijn taken/werk af te ronden. Groeikansen zie ik vooral op het vlak van het proactief denken over latere taken, en het meer overzichtelijk te werk gaan. Het laatste heb ik voornamelijk ervaren tijdens mijn werk voor Monsieur Kaffee, waar mijn custom css op wordpress nogal vaak onoverzichtelijk werd naarmate er meer code bijkwam. Dus aan de slordigheid mag zeker nog wat gesleuteld worden.
+
+Desondanks de verbeterpunten ben ik nog altijd trots op mijn werk. Van het vinden van een klant, tot de uitwerking van zijn visie voor de vernieuwe website, en het technisch uitbouwen hiervan. Een project van A-tot-Z waar ik kan zeggen “Ja, dit heb ik gedaan.” Het geeft een goed gevoel om concreet resultaat te zien en tegelijkertijd nieuwe vaardigheden te leren in een ontspannen en ondersteunende werkomgeving.
