@@ -16,6 +16,9 @@ ________________________________________
 BeerTracker — web scraping met anti-botmaatregelen
 Het grootste deel van mijn tijd ging naar het BeerTracker project, een webtool die automatisch bierprijzen vergelijkt bij verschillende Belgische supermarkten. Hoewel dit op het eerste gezicht misschien niet als een typische professionele opdracht lijkt, was de keuze voor dit project toch wel passend. Aangzien de weinige professionele coding-opdrachten die in de pipeline zaten ofwel buiten de scope van een stagiaire waren, of al in zo’n gevorderde fase dat ik daar weinig aan kon bijdragen, was dit een goede tussenstap. Het was een side-project dat Lukas al enige tijd wilde oppakken, maar waar hij nog niet de tijd voor had gevonden. Aangezien PDSS regelmatig een goed gevulde koelkast heeft voor ontspanning op vrijdagavond en ook vaak bedrijfsevents organiseert, was het interessant om een tool te ontwikkelen waarmee de kosten bij inkoop kunnen worden verlaagd.
 
+![Frontend beertracker](./Images/Beertracker.png)
+https://beertracker.onrender.com/
+
 Desondanks dat het concept eenvoudig lijkt, bleek al snel dat die toch niet ZO simpel ging zijn. Dit komt, deels, doordat elke winkel een eigen DOM-structuur en laadstrategie heeft. Daardoor moest ik voor Delhaize, Colruyt, Carrefour, Babylon Drinks en Prik&Tik elk een aparte scraper-klasse ontwikkelen die overerft van een gedeelde BaseScraper. Om zo dus alle nodige informatie van de verschillende winkel webshops te kunnen halen.
 
 Elke scraper gebruikt Playwright om een headless Chromium-browser te openen, verwijdert cookiebanners automatisch, scrolt tot alle producten geladen zijn, en extraheert naam, prijs, promoties en productlinks uit de DOM. Omdat webshops strikt zijn op botdetectie, implementeerde ik in de BaseScraper verschillende anti-botmaatregelen: aangepaste user-agents, navigator-spoofing, willekeurige muisbewegingen en variabele wachttijden om menselijk gedrag te simuleren.
@@ -58,6 +61,8 @@ Dankzij dit project heb ik veel ervaring opgedaan met browser-automatisatie, ant
 ________________________________________
 
 Parallel hieraan werkte ik aan een AI Mail Assistant, een Outlook-taskpane-add-in in TypeScript die e-mails kan samenvatten, de toon analyseren en complete antwoordvoorstellen genereert. Dit project ontstond uit klachten van collega's die veel tijd besteedden aan e-mails om frustraties met klanten of leveranciers professioneel over te brengen. Met deze tool hoop ik hun dagelijkse communicatie te versnellen.
+
+![AI email assistent task panel](./Images/Mail-assistent.png)
 
 Ik heb de interface (HTML/CSS) en logica (taskpane.ts) gescheiden, zodat de Office.js-koppeling overzichtelijk blijft en de UI makkelijk uit te breiden is.
 
