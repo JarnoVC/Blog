@@ -87,7 +87,7 @@ Deployment: Webpack + Vercel
 
 Voor deployment gebruik ik Webpack om alles te bundelen. Webpack patcht automatisch de manifest-URL's voor productie (van localhost:3000 naar de Vercel-URL). Vercel biedt een CDN en automatische HTTPS, wat nodig is voor Outlook-add-ins. Na npm run build en vercel --prod staat de add-in online en kunnen collega's hem gebruiken zonder lokale server. Zo kan ik snel aanpassingen of updates maken zonder dat gebruikers iets merken of last van hebben.
 
-![Webpack compiler voor deployment](./Images/Webpack.png)
+![Webpack compiler voor deployment](./Images/webpack.png)
 
 ________________________________________
 Conclusie:
