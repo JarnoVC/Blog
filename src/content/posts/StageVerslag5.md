@@ -13,7 +13,6 @@ lang: 'nl'
 Tijdens de afgelopen twee weken heb ik vooral gewerkt aan twee technische projecten waarmee ik eindelijk met coding-skills mee kon testen & verbeteren: een BeerTracker-webtool en een AI Mail Assistant voor Outlook. Beide projecten brachten hun eigen uitdagingen met zich mee, waardoor ik veel heb bijgeleerd over web scraping, deployment van online tools, AI-integraties en het automatiseren van processen om gebruikers zo’n aangenaam mogelijke ervaring te geven.
 ________________________________________
 
-BeerTracker — web scraping met anti-botmaatregelen
 Het grootste deel van mijn tijd ging naar het BeerTracker project, een webtool die automatisch bierprijzen vergelijkt bij verschillende Belgische supermarkten. Hoewel dit op het eerste gezicht misschien niet als een typische professionele opdracht lijkt, was de keuze voor dit project toch wel passend. Aangzien de weinige professionele coding-opdrachten die in de pipeline zaten ofwel buiten de scope van een stagiaire waren, of al in zo’n gevorderde fase dat ik daar weinig aan kon bijdragen, was dit een goede tussenstap. Het was een side-project dat Lukas al enige tijd wilde oppakken, maar waar hij nog niet de tijd voor had gevonden. Aangezien PDSS regelmatig een goed gevulde koelkast heeft voor ontspanning op vrijdagavond en ook vaak bedrijfsevents organiseert, was het interessant om een tool te ontwikkelen waarmee de kosten bij inkoop kunnen worden verlaagd.
 
 ![Frontend beertracker](./Images/beertracker.png)
